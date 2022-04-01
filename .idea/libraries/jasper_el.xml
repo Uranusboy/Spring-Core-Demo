@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jasper-el">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../tools/tomcat9/apache-tomcat-9.0.56/lib/jasper-el.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
